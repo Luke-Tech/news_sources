@@ -1,8 +1,10 @@
-==News Sources==
+#News Sources#
 
 Rather than subscribe to dozens of newsletters via email, I found a better way: subscribe to RSS feeds and aggregate everything in one place. I suggest Feedly for this. It has a web application and smartphone (iOS or Android) app. This makes it easier to scroll through hundreds of headlines quickly.
 
 Create an account and import the opml file to loads up everything I have below:
+
+##RSS News##
 
 Bleeping Computer
 
@@ -168,7 +170,7 @@ Web Security Blog - Acunetix
 
 -----
 
-==Podcasts==
+##Podcasts##
 
 I use Pocket Casts on iOS. Mainly because it is one of the few that can also handle playing audiobooks in mp3 format.
 
