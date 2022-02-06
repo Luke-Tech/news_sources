@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+    <head>
+        <title>Podcast Feeds</title>
+    </head>
+
+    <body>
+    <outline text="feeds">
+            <outline type="rss" text="8th Layer Insights" xmlUrl="https://feeds.megaphone.fm/8th-layer-insights" />
+            <outline type="rss" text="Any Port on the Net" xmlUrl="https://anchor.fm/s/4d824004/podcast/rss" />
+            <outline type="rss" text="Brakeing Down Security Podcast" xmlUrl="https://brakeingsecurity.libsyn.com/rss" />
+            <outline type="rss" text="CYBER" xmlUrl="https://feeds.acast.com/public/shows/6dab3ca4-41f5-4fd4-bba6-224ab53f5113" />
+            <outline type="rss" text="Cyber Security Headlines" xmlUrl="https://cisoseries.libsyn.com/rss" />
+            <outline type="rss" text="Cyber Security Sauna" xmlUrl="https://cybersecuritysauna.libsyn.com/rss" />
+            <outline type="rss" text="Cyber Work" xmlUrl="https://feeds.buzzsprout.com/840682.rss" />
+            <outline type="rss" text="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
+            <outline type="rss" text="Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec" xmlUrl="https://defensivesecurity.org/feed/podcast/" />
+            <outline type="rss" text="Down the Security Rabbithole Podcast" xmlUrl="http://podcast.wh1t3rabbit.net/rss" />
+            <outline type="rss" text="The Hacker Mind" xmlUrl="https://feed.podbean.com/thehackermind/feed.xml" />
+            <outline type="rss" text="Hacker Valley Blue" xmlUrl="https://feed.podbean.com/hacker-valley-blue/feed.xml" />
+            <outline type="rss" text="Hacker Valley Red" xmlUrl="https://feed.podbean.com/hacker-valley-red/feed.xml" />
+            <outline type="rss" text="Hacker Valley Studio" xmlUrl="https://feed.podbean.com/HackerValleyStudio/feed.xml" />
+            <outline type="rss" text="Hacking Humans" xmlUrl="https://feeds.megaphone.fm/hacking-humans" />
+            <outline type="rss" text="How to Fix the Internet" xmlUrl="https://feeds.eff.org/howtofixtheinternet" />
+            <outline type="rss" text="The Industrial Security Podcast" xmlUrl="https://www.ranlevi.com/feed/industrial_security_podcast/" />
+            <outline type="rss" text="LevelUp Cyber" xmlUrl="https://www.spreaker.com/show/3639883/episodes/feed" />
+            <outline type="rss" text="Malicious Life" xmlUrl="https://malicious.life/feed/podcast/" />
+            <outline type="rss" text="The Official Offensive Security Podcast" xmlUrl="https://anchor.fm/s/532bea14/podcast/rss" />
+            <outline type="rss" text="Open Source Security Podcast" xmlUrl="http://opensourcesecuritypodcast.libsyn.com/rss" />
+            <outline type="rss" text="Paul&#39;s Security Weekly" xmlUrl="http://podcast.securityweekly.com/rss" />
+            <outline type="rss" text="The Privacy, Security, &amp; OSINT Show" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" />
+            <outline type="rss" text="Risky Business" xmlUrl="http://risky.biz/feeds/risky-business/" />
+            <outline type="rss" text="SANS Internet Stormcenter Daily Cyber Security Podcast (Stormcast)" xmlUrl="https://isc.sans.edu/dailypodcast.xml" />
+            <outline type="rss" text="The Security Ledger" xmlUrl="https://feeds.feedblitz.com/thesecurityledger" />
+            <outline type="rss" text="Security Now (Audio)" xmlUrl="https://feeds.twit.tv/sn.xml" />
+            <outline type="rss" text="The Social-Engineer Podcast" xmlUrl="https://socialengineer.libsyn.com/rss" />
+            <outline type="rss" text="The Threatpost Podcast" xmlUrl="http://feeds2.feedburner.com/Threatpost-DigitalUnderground" />
+            <outline type="rss" text="The Tripwire Cybersecurity Podcast" xmlUrl="https://tripwire.libsyn.com/rss" />
+            <outline type="rss" text="TrustedSec Security Podcast" xmlUrl="https://trustedsec.libsyn.com/rss" />
+            <outline type="rss" text="Your Cyber Path: How to Get Your Dream Cybersecurity Job" xmlUrl="https://feed.pod.co/your-cyber-path-how-to-get-your-dream-cybersecurity-job" />
+    </outline>
+    </body>
+</opml>
